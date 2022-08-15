@@ -1,1 +1,1 @@
-Hello world how are you. This is a GitHub Test.
+Hello world how are you. This is a GitHub Test. VS Code is fun.
