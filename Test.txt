@@ -1,1 +1,1 @@
-Hello world. VS Code is fun.
+Hello world. VS Code is fun. GitHub is cool.
